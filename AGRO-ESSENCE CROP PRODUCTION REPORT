@@ -1,0 +1,38 @@
+Our Dataset is about agric and farming insights. It dives intom this feild to explore variety of crops grown and thier yeild rate. How various land areas are utilized, how the lands are allocated across different farming activities.
+For sustainability, we look at water usage, soil health, and sustainable farming practice.
+
+Do you know you stand a better chance of having a more productive farm space than relying on uninformed recommendations.
+
+I’ve learned how to analyze the actual numbers behind a dataset. of Recent, I worked on a project that dug into agricultural produces to discover what’s really yeilding crop results. The seasonal changes, humidity, soil type, irrigation or water usage. This shifts from mearly guesswork to clear insight. Not just for personal decisions, but for future business goals like expansion and accqusition of major farmlands. 
+
+Project Objective was to understand proper crop rotation and optimize crop yeilding. Then turn these insights into better farming strategy. some Key Insights and observations i discovered were: Firstly, the various seasons
+
+ZAID (SUMMER): This is observed to be the most fruitful season of the year. It yeilds a total of 644.1 tons of crops. Cotton and bailey are the largest harvested crops at 81 tons. The best performing farm within this season is farm ID F017. Cotton plant also uses the most pesticide during third season, while Potato uses the most fertilizer. Cotton also uses the most water for sustainability.
+
+KHARIF (Rainy): Within this season, Barley is most harvested because it has the highest yeild. Sugarcane uses the most water for sustainability, while Cotton plant needs the most pesticide. Potato has the highest use of fertilizer within this season.
+
+RABI (Winter): Soybean is the largest harvested crop durin the winter season, while Farm F028 is the most productive farm land. Tomatoes uses the most pesticide and water for sustainability.
+
+- From our Dataset, Tomatoes is said to be our highest yeilding crop at 202 Tons.
+
+- The total yeild from the 50 farmlands are 1352.96 tons of farm produce.
+
+- We had a variety of 10 crops for the planting and harvesting year.
+
+- Sum total of fertilizers used on all the farms are 245.27 tons.
+
+- We used a total of 119.9kg of pesticide to control infestation of our crops.
+
+- Clay soil takes the most Irrigation type.
+
+- Barley uses the most fertilizer, while Maize uses the least fertilizer.
+
+- Zaid is the most productive (yeilding) season.
+
+- Maize is generally the least yeilding crop for the year. And it is only harvested in two seasons of the year. It is also not planted amongst the best performing farmlands.
+
+- Our most productive farmland is F028.
+
+Data Source: https://www.kaggle.com/datasets/samuelotiattakorah/agriculture-crop-yield Full Report: https://medium.com/@olisahebubechukwu/cultivating-is-it-just-for-profit-c60db4f09c78 
+
+project reminded me why I love the path of an analyst; Insight always beats intuition every time, data brings clarity from confusion. 
